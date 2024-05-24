@@ -1,0 +1,6 @@
+framework module Pods_15_04_24_WebservicesNestedAPIArrayOfImages {
+  umbrella header "Pods-15_04_24_WebservicesNestedAPIArrayOfImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
